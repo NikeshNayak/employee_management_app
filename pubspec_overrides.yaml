@@ -1,0 +1,3 @@
+dependency_overrides:
+  calendar_date_picker2:
+    path: packages/calendar_date_picker2
